@@ -1,0 +1,14 @@
+
+import './App.css';
+import Employee from './Component/Employee';
+
+function App() {
+  return (
+    <div>
+      
+      <Employee/>
+    </div>
+  );
+}
+
+export default App;

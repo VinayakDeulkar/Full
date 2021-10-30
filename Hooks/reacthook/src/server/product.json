@@ -1,0 +1,16 @@
+{
+   "products": [
+     {
+       "id": "3",
+       "pname": "A",
+       "price": "25000",
+       "image":"container1.jpg"
+     },
+     {
+       "id": "1",
+       "pname": "B",
+       "price": "25000",
+       "image":"container1.jpg"
+     }
+   ]
+ }

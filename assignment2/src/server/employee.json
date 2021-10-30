@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "ename": "Aqq",
+      "age": "20",
+      "city": "Noid",
+      "gender": "male",
+      "salary": "45670"
+    },
+    {
+      "id": 2,
+      "ename": "v",
+      "age": "24",
+      "city": "Pune",
+      "gender": "female",
+      "salary": "250000"
+    },
+    {
+      "id": 3,
+      "ename": "Cxx",
+      "age": "21",
+      "city": "Mumbaia",
+      "gender": "female",
+      "salary": "50000"
+    }
+  ]
+}
